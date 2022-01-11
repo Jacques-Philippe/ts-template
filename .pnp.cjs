@@ -38,13 +38,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/jest", "npm:27.4.0"],
             ["@types/node", "npm:17.0.5"],
             ["@types/prettier", "npm:2.4.2"],
-            ["@types/prompts", "npm:2.4.0"],
-            ["fast-xml-parser", "npm:4.0.0-beta.8"],
             ["husky", "npm:7.0.4"],
             ["jest", "virtual:8a20199d5aa04cd2690b0cb64b0706fcc0aa1affc83208fe6b5371d1a1499e3658c9cc54397a7ebdc9450a55b39ee6e1645f8a9c98834b186e65775304071054#npm:27.4.5"],
             ["lint-staged", "npm:12.1.5"],
             ["prettier", "npm:2.5.1"],
-            ["prompts", "npm:2.4.2"],
             ["ts-jest", "virtual:8a20199d5aa04cd2690b0cb64b0706fcc0aa1affc83208fe6b5371d1a1499e3658c9cc54397a7ebdc9450a55b39ee6e1645f8a9c98834b186e65775304071054#npm:27.1.2"],
             ["typescript", "patch:typescript@npm%3A4.5.4#~builtin<compat/typescript>::version=4.5.4&hash=493e53"]
           ],
@@ -1224,15 +1221,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "linkType": "HARD",
         }]
       ]],
-      ["@types/prompts", [
-        ["npm:2.4.0", {
-          "packageLocation": "./.yarn/cache/@types-prompts-npm-2.4.0-5b5caba459-ec75655f07.zip/node_modules/@types/prompts/",
-          "packageDependencies": [
-            ["@types/prompts", "npm:2.4.0"]
-          ],
-          "linkType": "HARD",
-        }]
-      ]],
       ["@types/stack-utils", [
         ["npm:2.0.1", {
           "packageLocation": "./.yarn/cache/@types-stack-utils-npm-2.0.1-867718ab70-205fdbe332.zip/node_modules/@types/stack-utils/",
@@ -2333,16 +2321,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/cache/fast-levenshtein-npm-2.0.6-fcd74b8df5-92cfec0a8d.zip/node_modules/fast-levenshtein/",
           "packageDependencies": [
             ["fast-levenshtein", "npm:2.0.6"]
-          ],
-          "linkType": "HARD",
-        }]
-      ]],
-      ["fast-xml-parser", [
-        ["npm:4.0.0-beta.8", {
-          "packageLocation": "./.yarn/cache/fast-xml-parser-npm-4.0.0-beta.8-88c5b6907a-bee9de958a.zip/node_modules/fast-xml-parser/",
-          "packageDependencies": [
-            ["fast-xml-parser", "npm:4.0.0-beta.8"],
-            ["strnum", "npm:1.0.5"]
           ],
           "linkType": "HARD",
         }]
@@ -4676,15 +4654,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "linkType": "HARD",
         }]
       ]],
-      ["strnum", [
-        ["npm:1.0.5", {
-          "packageLocation": "./.yarn/cache/strnum-npm-1.0.5-9ba11d2a0a-651b2031db.zip/node_modules/strnum/",
-          "packageDependencies": [
-            ["strnum", "npm:1.0.5"]
-          ],
-          "linkType": "HARD",
-        }]
-      ]],
       ["supports-color", [
         ["npm:5.5.0", {
           "packageLocation": "./.yarn/cache/supports-color-npm-5.5.0-183ac537bc-95f6f4ba5a.zip/node_modules/supports-color/",
@@ -4898,13 +4867,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/jest", "npm:27.4.0"],
             ["@types/node", "npm:17.0.5"],
             ["@types/prettier", "npm:2.4.2"],
-            ["@types/prompts", "npm:2.4.0"],
-            ["fast-xml-parser", "npm:4.0.0-beta.8"],
             ["husky", "npm:7.0.4"],
             ["jest", "virtual:8a20199d5aa04cd2690b0cb64b0706fcc0aa1affc83208fe6b5371d1a1499e3658c9cc54397a7ebdc9450a55b39ee6e1645f8a9c98834b186e65775304071054#npm:27.4.5"],
             ["lint-staged", "npm:12.1.5"],
             ["prettier", "npm:2.5.1"],
-            ["prompts", "npm:2.4.2"],
             ["ts-jest", "virtual:8a20199d5aa04cd2690b0cb64b0706fcc0aa1affc83208fe6b5371d1a1499e3658c9cc54397a7ebdc9450a55b39ee6e1645f8a9c98834b186e65775304071054#npm:27.1.2"],
             ["typescript", "patch:typescript@npm%3A4.5.4#~builtin<compat/typescript>::version=4.5.4&hash=493e53"]
           ],
