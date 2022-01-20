@@ -1,3 +1,5 @@
+![Build & Test workflow](https://github.com/Jacques-Philippe/ts-template/actions/workflows/test-and-build.yml/badge.svg)
+
 # Purpose
 
 This project serves as a template for some typescript project. Use it to build on. :)
