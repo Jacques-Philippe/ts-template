@@ -1,11 +1,10 @@
 # This is a basic workflow to help you get started with Actions
 
-name: Release on pushed tag
-# Controls when the workflow will run
+name: Create new release on new tag push
+
 on:
-  # Triggers the workflow on push or pull request events but only for the master branch
   push:
-    tags: 
+    tags:
       - "v[0-9]+.[0-9]+.[0-9]+"
 
   # Allows you to run this workflow manually from the Actions tab
